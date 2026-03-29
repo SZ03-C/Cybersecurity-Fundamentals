@@ -227,7 +227,7 @@ ABAC (Attribute-Based)   │ Access based on multiple attributes
 10. **A10: SSRF** - Server-side request forgery
 
 ## 🔧 Essential Tools
-
+These are just example commands in further practices the whole installation to implementation will be demonstrated
 ### Network Analysis
 ```bash
 # Nmap - Port scanning
@@ -383,8 +383,8 @@ Feel free to add your notes, writeups, and resources!
 
 ## 📧 Connect
 
-- GitHub: [YourUsername]
-- LinkedIn: [Your LinkedIn]
+- GitHub: https://github.com/SZ03-C
+- LinkedIn: https://www.linkedin.com/in/shaguftha-zabeen-a41371379/
 
 ---
 
