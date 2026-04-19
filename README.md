@@ -314,7 +314,7 @@ binwalk firmware.bin
 ### Advanced
 - [Proving Grounds](https://proving grounds.offensive.com/)
 - [PentesterLab](https://pentesterlab.com/)
-- [Offensive Security Exerci
+  
 
 ## 🎓 Certifications Path
 
@@ -323,7 +323,7 @@ Beginner          Intermediate         Advanced
 ────────────────────────────────────────────────
 CompTIA           CEH                  OSCP
 ITF+      →       Security+    →       OSEP
-               →  CEH           →      CISSP
+          →       CEH          →       CISSP
                                        CISM
 ```
 
